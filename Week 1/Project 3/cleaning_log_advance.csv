@@ -1,0 +1,10 @@
+metric,value
+initial_shape,"(8807, 12)"
+initial_missingvalues,"{'show_id': 0, 'type': 0, 'title': 0, 'director': 2634, 'cast': 825, 'country': 831, 'date_added': 10, 'release_year': 0, 'rating': 4, 'duration': 3, 'listed_in': 0, 'description': 0}"
+duplicates_removed,0
+date_parsing_null's ,98
+numeric_imputation,median
+categorical_imputation,most_frequent
+final_missing,"{'show_id': 0, 'type': 0, 'title': 0, 'director': 0, 'cast': 0, 'country': 0, 'date_added': 98, 'release_year': 0, 'rating': 0, 'duration': 0, 'listed_in': 0, 'description': 0, 'duration_int': 0}"
+final_shape,"(8807, 13)"
+final_dtypes,"{'show_id': 'object', 'type': 'object', 'title': 'object', 'director': 'object', 'cast': 'object', 'country': 'object', 'date_added': 'datetime64[ns]', 'release_year': 'float64', 'rating': 'object', 'duration': 'object', 'listed_in': 'object', 'description': 'object', 'duration_int': 'float64'}"
