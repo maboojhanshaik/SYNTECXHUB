@@ -1,0 +1,24 @@
+
+NETFLIX EDA SUMMARY REPORT
+==========================
+Total Titles in Dataset: 5806
+Number of Movies: 3759
+Number of TV Shows: 2047
+
+STATISTICS:
+- Most Productive Year: 2019 (848 releases)
+- Average Movie Duration: 98.79 minutes
+- Top Genre overall: drama
+
+TOP 10 YEARS (BY RELEASE COUNT):
+ Year  Count
+ 2019    848
+ 2020    805
+ 2018    774
+ 2021    758
+ 2017    580
+ 2016    371
+ 2015    236
+ 2022    217
+ 2014    160
+ 2013    142
